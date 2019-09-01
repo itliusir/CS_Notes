@@ -16,3 +16,7 @@ Study CS Basic Course Notes
 [五、链路层](<https://github.com/itliusir/CS_Notes/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C(%E4%BA%94).md>)
 
 [六、安全](<https://github.com/itliusir/CS_Notes/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C(%E5%85%AD).md>)
+
+### 操作系统
+
+[一、计算机系统漫游]()
