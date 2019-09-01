@@ -19,4 +19,4 @@ Study CS Basic Course Notes
 
 ### 操作系统
 
-[一、计算机系统漫游]([https://github.com/itliusir/CS_Notes/blob/master/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F(%E4%B8%80).md](https://github.com/itliusir/CS_Notes/blob/master/操作系统/操作系统(一).md)
+[一、计算机系统漫游](https://github.com/itliusir/CS_Notes/blob/master/操作系统/操作系统(一).md)
