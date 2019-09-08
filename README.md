@@ -21,4 +21,5 @@ Study CS Basic Course Notes
 
 [一、计算机系统漫游](https://github.com/itliusir/CS_Notes/blob/master/操作系统/操作系统(一).md)
 
-[二、信息的表示和处理](https://github.com/itliusir/CS_Notes/blob/master/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F(%E4%BA%8C).md](https://github.com/itliusir/CS_Notes/blob/master/操作系统/操作系统(二).md)
+[二、信息的表示和处理](https://github.com/itliusir/CS_Notes/blob/master/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F(%E4%BA%8C).md)
+
