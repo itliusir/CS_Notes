@@ -20,3 +20,5 @@ Study CS Basic Course Notes
 ### 操作系统
 
 [一、计算机系统漫游](https://github.com/itliusir/CS_Notes/blob/master/操作系统/操作系统(一).md)
+
+[二、信息的表示和处理]()
