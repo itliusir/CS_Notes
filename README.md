@@ -41,3 +41,4 @@ Study CS Basic Course Notes
 
 [一、MySQL 架构](https://github.com/itliusir/CS_Notes/blob/master/数据库/MySQL(一).md)
 
+[二、范式与数据类型优化](https://github.com/itliusir/CS_Notes/blob/master/数据库/MySQL(二).md)
