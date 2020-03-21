@@ -46,3 +46,5 @@ Study CS Basic Course Notes
 [三、创建高性能索引](https://github.com/itliusir/CS_Notes/blob/master/数据库/MySQL(三).md)
 
 [四、查询性能优化](https://github.com/itliusir/CS_Notes/blob/master/数据库/MySQL(四).md)
+
+[五、复制架构](https://github.com/itliusir/CS_Notes/blob/master/数据库/MySQL(五).md)
