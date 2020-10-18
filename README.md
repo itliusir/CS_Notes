@@ -50,3 +50,7 @@ Study CS Basic Course Notes
 [五、复制架构](https://github.com/itliusir/CS_Notes/blob/master/数据库/MySQL(五).md)
 
 [六、可扩展的MySQL](https://github.com/itliusir/CS_Notes/blob/master/数据库/MySQL(六).md)
+
+### DDIA
+
+[一、数据系统和数据模型](https://github.com/itliusir/CS_Notes/blob/master/DDIA/DDIA(%E4%B8%80).md)
