@@ -56,3 +56,5 @@ Study CS Basic Course Notes
 [一、数据系统和数据模型](https://github.com/itliusir/CS_Notes/blob/master/DDIA/DDIA(%E4%B8%80).md)
 
 [二、存储和检索](https://github.com/itliusir/CS_Notes/blob/master/DDIA/DDIA(%E4%BA%8C).md)
+
+[三、编码与演化](https://github.com/itliusir/CS_Notes/blob/master/DDIA/DDIA(%E4%B8%89).md)
