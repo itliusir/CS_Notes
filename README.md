@@ -58,3 +58,5 @@ Study CS Basic Course Notes
 [二、存储和检索](https://github.com/itliusir/CS_Notes/blob/master/DDIA/DDIA(%E4%BA%8C).md)
 
 [三、编码与演化](https://github.com/itliusir/CS_Notes/blob/master/DDIA/DDIA(%E4%B8%89).md)
+
+[四、复制](https://github.com/itliusir/CS_Notes/blob/master/DDIA/DDIA(%E5%9B%9B).md)
