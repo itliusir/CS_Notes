@@ -51,7 +51,7 @@ Study CS Basic Course Notes
 
 [六、可扩展的MySQL](https://github.com/itliusir/CS_Notes/blob/master/数据库/MySQL(六).md)
 
-### DDIA
+### 分布式
 
 [一、数据系统和数据模型](https://github.com/itliusir/CS_Notes/blob/master/DDIA/DDIA(%E4%B8%80).md)
 
@@ -60,3 +60,5 @@ Study CS Basic Course Notes
 [三、编码与演化](https://github.com/itliusir/CS_Notes/blob/master/DDIA/DDIA(%E4%B8%89).md)
 
 [四、复制](https://github.com/itliusir/CS_Notes/blob/master/DDIA/DDIA(%E5%9B%9B).md)
+
+[五、分区](https://github.com/itliusir/CS_Notes/blob/master/DDIA/DDIA(%E4%BA%94).md)
