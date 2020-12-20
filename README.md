@@ -62,3 +62,7 @@ Study CS Basic Course Notes
 [四、复制](https://github.com/itliusir/CS_Notes/blob/master/DDIA/DDIA(%E5%9B%9B).md)
 
 [五、分区](https://github.com/itliusir/CS_Notes/blob/master/DDIA/DDIA(%E4%BA%94).md)
+
+[六、事务](https://github.com/itliusir/CS_Notes/blob/master/DDIA/DDIA(六).md)
+
+[七、共识一致性](https://github.com/itliusir/CS_Notes/blob/master/DDIA/DDIA(七).md)
